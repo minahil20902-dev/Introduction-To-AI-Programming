@@ -1,0 +1,7 @@
+3.0A -> Safe
+7.0A -> Warning
+12.0A -> Overload
+5.0A -> Warning
+9.0A -> Warning
+15.0A -> Overload
+2.0A -> Safe

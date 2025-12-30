@@ -1,0 +1,10 @@
+45 -> Fail
+67 -> Pass
+30 -> Fail
+90 -> Pass
+50 -> Pass
+76 -> Pass
+22 -> Fail
+100 -> Pass
+49 -> Fail
+88 -> Pass
