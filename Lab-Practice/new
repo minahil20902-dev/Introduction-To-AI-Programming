@@ -1,0 +1,2 @@
+def series (resistors):
+    return sum(resistors)
