@@ -1,9 +1,0 @@
-Student_ID,Building,Floor,Energy_Usage(kWh),Audit_Date
-S001,Engineering,1,1250,2024-01-10
-S002,Engineering,2,980,2024-01-10
-S003,Library,1,2100,2024-01-11
-S004,Library,2,1850,2024-01-11
-S005,Dormitory A,3,1560,2024-01-12
-S006,Dormitory B,4,1420,2024-01-12
-S007,Cafeteria,1,3200,2024-01-13
-S008,Gymnasium,1,2750,2024-01-13

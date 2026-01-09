@@ -1,7 +1,0 @@
-Customer_ID,Name,Address,Month,Usage(kWh),Amount($)
-C001,John Doe,123 Main St,January,450,67.50
-C002,Jane Smith,456 Oak Ave,January,520,78.00
-C003,Bob Johnson,789 Pine Rd,January,380,57.00
-C004,Alice Brown,321 Elm St,January,410,61.50
-C001,John Doe,123 Main St,February,480,72.00
-C002,Jane Smith,456 Oak Ave,February,530,79.50
